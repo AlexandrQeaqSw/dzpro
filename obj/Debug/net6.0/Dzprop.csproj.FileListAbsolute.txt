@@ -1,0 +1,15 @@
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\bin\Debug\net6.0\Dzprop.exe
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\bin\Debug\net6.0\Dzprop.deps.json
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\bin\Debug\net6.0\Dzprop.runtimeconfig.json
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\bin\Debug\net6.0\Dzprop.dll
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\bin\Debug\net6.0\Dzprop.pdb
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\Dzprop.csproj.AssemblyReference.cache
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\Dzprop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\Dzprop.AssemblyInfoInputs.cache
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\Dzprop.AssemblyInfo.cs
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\Dzprop.csproj.CoreCompileInputs.cache
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\Dzprop.dll
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\refint\Dzprop.dll
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\Dzprop.pdb
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\Dzprop.genruntimeconfig.cache
+C:\Users\sanya\OneDrive\Рабочий стол\Dzprop\obj\Debug\net6.0\ref\Dzprop.dll
